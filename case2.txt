@@ -1,0 +1,7 @@
+What is High order component in React Js? Please give us example component in react
+project that use that concept?
+
+==>
+
+higher-order component is a function that takes a component and returns a new component, is an advanced technique in React for reusing component logic.
+HOCs are common in third-party React libraries, such as Redux’s connect and compose
